@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1777492236 source:c:\users\usuario\desktop\computação gráfica\trabalho1\trabalho1\tela.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"tela.h"
+	"desenharLinha.h"
+	"viewPort.h"
+	"poligono.h"
+
+1777481502 source:c:\users\usuario\desktop\computação gráfica\trabalho1\trabalho1\desenharlinha.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"tela.h"
+	"desenharLinha.h"
+	"viewPort.h"
+	"poligono.h"
+
+1777473767 c:\users\usuario\desktop\computação gráfica\trabalho1\trabalho1\desenharlinha.h
+
+1777513376 source:c:\users\usuario\desktop\computação gráfica\trabalho1\trabalho1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"tela.h"
+	"desenharLinha.h"
+	"viewPort.h"
+	"poligono.h"
+
+1777492236 c:\users\usuario\desktop\computação gráfica\trabalho1\trabalho1\tela.h
+
+1777473036 c:\users\usuario\desktop\computação gráfica\trabalho1\trabalho1\viewport.h
+
+1777487580 source:c:\users\usuario\desktop\computação gráfica\trabalho1\trabalho1\viewport.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"tela.h"
+	"desenharLinha.h"
+	"viewPort.h"
+	"poligono.h"
+
+1777486858 source:c:\users\usuario\desktop\computação gráfica\trabalho1\trabalho1\poligono.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"tela.h"
+	"desenharLinha.h"
+	"viewPort.h"
+	"poligono.h"
+
+1777504707 c:\users\usuario\desktop\computação gráfica\trabalho1\trabalho1\poligono.h
+
